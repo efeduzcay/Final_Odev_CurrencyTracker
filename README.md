@@ -1,5 +1,9 @@
 # CurrencyTracker – Döviz Takip Konsol Uygulaması
 
+## Öğrenci Bilgileri
+- **Ad Soyad:** Efe Düzçay  
+- **Öğrenci Numarası:** 20230108057 
+
 Bu proje, Türk Lirası (TRY) bazlı döviz kurlarını takip etmek amacıyla geliştirilmiş bir C# konsol uygulamasıdır. Uygulama, Frankfurter FREE API üzerinden canlı döviz verilerini alır, bu verileri hafızada tutar ve LINQ kullanarak çeşitli sorgular yapılmasını sağlar.
 
 Uygulamanın amacı; bir finans firmasının TRY bazlı döviz kurlarını konsol üzerinden görüntüleyebilmesi, filtreleyebilmesi, sıralayabilmesi ve istatistiksel özet alabilmesidir.
